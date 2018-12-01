@@ -1,2 +1,2 @@
-# helllo-word
-The first
+# hello-word
+The first repository
